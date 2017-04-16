@@ -258,7 +258,7 @@ w6 = MotionSet(tree.parsexml("37 "),speed=2.1,offsets=[darwin])
 walk_init = Action([w1,w2])
 walk_motion = Action([w3,w4,w5,w6])
 
-units = ['1 Start','2 Stand','BOW','Look','3 Step 1 a','4 Step 1 b','5 Step 1 c','6 Step 2 a','3 Step 1 a','4 Step 1 b','5 Step 1 c','6 Step 2 a','8 Step 3-1',
+units = ['1 Start','2 Stand','BOW','Look','3 Step 1 a','3 Step 1 a','4 Step 1 b','5 Step 1 c','6 Step 2 a','3 Step 1 a','4 Step 1 b','5 Step 1 c','6 Step 2 a','8 Step 3-1',
          '10 Step 4 a','7 Step 3-2','10 Step 4 a','7 Step 3 a','10 Step 4 a','13 Step 4-1','13 Step 4-1','13 Step 4-1','13 Step 4-1','17 Step 5-1','18 Step 5-2',
          '17 Step 5-1','18 Step 5-2','13 Step 4-1','17 Step 5-1','18 Step 5-2','17 Step 5-1','18 Step 5-2','13 Step 4-1','19 Step 6-1','20 Step 6-2',
          '21 Step 7-1','19 Step 6-1','20 Step 6-2','21 Step 7-1','23 Step 8-2','22 Step 8-1','23 Step 8-2','22 Step 8-1','24 Step 9-1']
